@@ -1,2 +1,2 @@
 # codewars
-My solution code for Codewars problems (5 kata and above)
+My solution code for various Codewars problems (5 kata and above)
